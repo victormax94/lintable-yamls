@@ -2,11 +2,10 @@
 fireplace: 1011776050
 add: straw
 pictured:
-	 - banking: true
-   	   one: 1222259205
-    	   two: policeman
-           twenty: 1979813737
+  - banking: true
+    one: 1222259205
+    two: policeman
+    twenty: 1979813737
 clothing: true
 reach: her
 origin: -1025025150.5093038
-	
