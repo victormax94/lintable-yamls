@@ -1,17 +1,12 @@
+---
 fireplace: 1011776050
-		add: straw
-					pictured:
-  - true
-  - - 1222259205
-    - policeman
-    - -1979813737
-    - tool
-    - true
-    - false
-  - 		124611781.60966039
-  - false
-  - true
-  - thirty
+add: straw
+pictured:
+	 - banking: true
+   	   one: 1222259205
+    	   two: policeman
+           twenty: 1979813737
 clothing: true
 reach: her
 origin: -1025025150.5093038
+	
