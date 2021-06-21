@@ -1,8 +1,8 @@
-
-- instance: 
-    seldom: -1158210775.327549
-    feet: village
-    every: 1155167525.3785086
-    smile: deeply
-    duty: true
-    great: true
+foo:foo
+instance: 
+    - seldom: -1158210775.327549
+      feet: village
+      every: 1155167525.3785086
+      smile: deeply
+      duty: true
+      great: true
